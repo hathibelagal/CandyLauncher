@@ -2,7 +2,7 @@
 
 An experimental launcher for Android created using Flutter and the `launcher_assist` package.
 
-<a href='https://play.google.com/store/apps/details?id=com.progur.candy&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="100"/></a>
+<a href='https://play.google.com/store/apps/details?id=com.progur.candy&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' style="width:200px"/></a>
 
 ## Usage
 
@@ -22,6 +22,7 @@ For help getting started with Flutter, view the online [documentation](https://f
 
 ## License
 
+```
 Copyright 2017 Ashraff Hathibelagal
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -35,3 +36,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+```
