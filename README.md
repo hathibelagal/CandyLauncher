@@ -2,6 +2,8 @@
 
 An experimental launcher for Android created using Flutter and the `launcher_assist` package.
 
+<a href='https://play.google.com/store/apps/details?id=com.progur.candy&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
 ## Usage
 
 To run this launcher on your Android phone, all you need to do is clone this repository and run the following command:
